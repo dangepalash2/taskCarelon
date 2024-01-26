@@ -38,7 +38,8 @@ To Setup this repo, please carry out below steps.
 # Screenshots
 
 Console Logs of tests
-![Alt text](image-1.png)
+![Alt text](<Screenshot 2024-01-26 at 12.14.56 PM.png>)
 
 Reporting
-![Alt text](image.png)
+
+![Alt text](<Screenshot 2024-01-26 at 12.14.27 PM.png>)

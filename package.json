@@ -27,7 +27,8 @@
   },
   "scripts": {
     "wdio": "wdio run ./wdio.conf.ts",
-    "tests": "ts-node --esm ./src/apiSpec.ts"
+    "tests": "ts-node --esm ./src/apiSpec.ts",
+    "allure" : "allure generate allure-results --clean && allure open"
   },
   "dependencies": {
     "@wdio/allure-reporter": "^8.29.0",
