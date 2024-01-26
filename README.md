@@ -28,7 +28,7 @@ Please follow below instructions to run the tests.
 
 To Setup this repo, please carry out below steps.
 
-- Run command `cd test`
+- Go to the home folder of repo in this case `taskCarelon`
 - Once you're into test directory run `npm install` . This will download all the required plugins/dependecies for the project.
 
 - Once successful, hit the command `npm run wdio`. This will run all the tests and generate logs in the console as shown in the screenshot below.
