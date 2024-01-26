@@ -1,6 +1,6 @@
 # Task CareLon
 
-This repo includes e2e and API test for local juice shop.
+This repo includes e2e and API test for local juice shop. https://github.com/bkimminich/juice-shop.git
 
 ##
 
